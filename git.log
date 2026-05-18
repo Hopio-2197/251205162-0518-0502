@@ -1,0 +1,43 @@
+commit 562274c37aceb53450c7d29cc01f7716b6da0547
+Merge: 5e1da93 0a51c60
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:36:58 2026 +0900
+
+    Merge branch 'purple'
+
+commit 5e1da931ccd16bfaf4c3fa83c6b19ba8e2fba654
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:35:43 2026 +0900
+
+    change the all color yellow
+
+commit 0a51c602841e14284e9e35f246744de1ad980602
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:32:12 2026 +0900
+
+    change the all color purple
+
+commit 018bdf7a11660402e8b675486450c2537e4bbf28
+Merge: 4d7733c 6177db9
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:25:37 2026 +0900
+
+    Merge branch 'blue'
+
+commit 6177db9b79dcdad26ae7de6d5cec28a69e8a9307
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:17:25 2026 +0900
+
+    Change the all color blue
+
+commit 4d7733cb135baf8d97b7817a865dc9417d6e81c9
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:11:49 2026 +0900
+
+    Change the all color to green
+
+commit a10d84a79088f03c8d72d1b067aac400fb09d24c
+Author: Hoppy <251205162@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 15:01:10 2026 +0900
+
+    canvas-tetrisのソースコードを追加しました
